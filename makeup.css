@@ -1,0 +1,25 @@
+body{background-image: url('makeup.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  margin-top: 150px
+}
+
+
+#fileName{border-radius: 6px;
+    padding: 10px;
+    
+}
+
+#fileContents{border-radius: 6px;
+    padding: 10px;
+    }
+
+    #button4{border-radius: 6px;
+        padding: 10px 24px;
+        margin-left: 10px;
+      border: 2px solid pink;
+      background-color: pink;}
+      
